@@ -25,7 +25,7 @@
 const developer = {
     name: "Dinithi Dias",
     role: "Code Wizard 🧙‍♂️",
-    languages: ["JavaScript", "Python", "Go"],
+    languages: ["JavaScript", "Python","Java","HTML","C"],
     hobbies: ["Breaking things", "Fixing things", "Repeat"],
     currentMood: "Motivated",
     lifeGoal: "Write code that doesn't need comments"
