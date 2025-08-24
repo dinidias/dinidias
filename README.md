@@ -42,13 +42,13 @@ console.log(`Hello, I'm ${Dinithi Dias}!`);
 Frontend    [████████░░] 80%
 Backend     [██████████] 100%
 DevOps      [██░░░░] 60%
-Tea      [██████████] ∞%
+Tea         [██████████] ∞%
 ```
 
 **Languages I speak fluently:**
 - 🐍 Java,C (native speaker)
 - ⚡ JavaScript (conversational)
-- 🗣️ Sinahal,English (human language, surprisingly useful)
+- 🗣️ Sinhala,English (human language, surprisingly useful)
 
 ---
 
