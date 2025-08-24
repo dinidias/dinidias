@@ -42,7 +42,7 @@ console.log(`Hello, I'm ${Dinithi Dias}!`);
 Frontend    [████████░░] 80%
 Backend     [██████████] 100%
 DevOps      [██░░░░] 60%
-Coffee      [██████████] ∞%
+Tea      [██████████] ∞%
 ```
 
 **Languages I speak fluently:**
