@@ -23,7 +23,7 @@
 
 ```javascript
 const developer = {
-    name: "YourName",
+    name: "Dinithi Dias",
     role: "Code Wizard 🧙‍♂️",
     languages: ["JavaScript", "Python", "Go"],
     hobbies: ["Breaking things", "Fixing things", "Repeat"],
